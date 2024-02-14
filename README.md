@@ -1,2 +1,2 @@
 # Image-Classifier
-It's a Pytorch image classifier program.
+It's a Pytorch image classifier application.
